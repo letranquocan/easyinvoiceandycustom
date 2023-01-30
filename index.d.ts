@@ -61,9 +61,9 @@ export type InvoiceTranslations = {
     subtotal?: string,
     /** Defaults to 'Products' */
     products?: string,
-    datebuy?: string
-    refnbr?: string
-    accountnumer?: string
+    datebuy?: string,
+    refnbr?: string,
+    accountnumer?: string,
     /** Default to 'Quantity' */
     quantity?: string,
     /** Defaults to 'Price' */
