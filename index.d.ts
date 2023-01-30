@@ -5,7 +5,7 @@ export type InvoiceSenderOrClient = {
     city?: string
     country?: string
     /** Custom values */
-    [key: string]: string
+    // [key: string]: string
 }
 
 export type InvoiceProduct = {
